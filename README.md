@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhargavi Kanojiya
+# 👋 Hi, I'm Bhargavi 
 
 🎓 **Data Science student @ RMIT University**  
 📍 Based in Melbourne, Australia  
@@ -15,26 +15,23 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔹 1. Exploratory Data Analysis (EDA)
+### 🔹1. Exploratory Data Analysis (EDA)
 A collection of notebooks analysing real datasets — cleaning, visualisation, and insights.
 
-👉 *Coming soon*
-
 ---
 
-### 🔹 2. Machine Learning Models  
+###  2. Machine Learning Models  
 Predictive ML models with proper evaluation and clear explanation.
 
-👉 *Coming soon*
 
 ---
 
-### 🔹 3. End-to-End Project: Olive Oil Quality Prediction  
+###  3. End-to-End Project: Olive Oil Quality Prediction  
 (Lab project highlighting your spectroscopy + ML work)
 
-👉 *Coming soon*
+
 
 ---
 
@@ -46,11 +43,8 @@ Predictive ML models with proper evaluation and clear explanation.
 
 ---
 
-## 📫 Connect With Me
-📧 Reach me on GitHub  
-🌐 More links coming soon
+
 
 ---
 
-✨ *Thanks for visiting my profile!*  
 
