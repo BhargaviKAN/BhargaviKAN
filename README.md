@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhargavi 
+
 
 🎓 **Data Science student @ RMIT University**  
 📍 Based in Melbourne, Australia  
